@@ -1,7 +1,4 @@
 # Yifu Gao 👨‍💻
-
-![Yifu Gao's github stats](https://github-readme-stats.vercel.app/api?username=harry-gao37&show_icons=true)
-
 ## Hi there 👋🤓
  <p>
   <img src="http://views.whatilearened.today/views/github/MartinYan623/views.svg"/>
@@ -18,8 +15,8 @@
   <img src="https://wakatime.com/badge/github/MartinYan623/My-Blog.svg"/>
  </p>
 
-🎉 Welcome to my Github! I'm **Martin** 😃, a computer science graduate from National University of Singapore 🏫.
-Following my passion for programming, I am a **software engineer** who is passionate about Web Development, Machine Learning and open-source 🔥. 
+🎉 Welcome to my Github! I'm **Harry** 😃, a statistics graduate from the University of Illinois at Urbana-Champaign 🏫.
+Following my passion for programming, I am a coding guy who is passionate about Web Development, Machine Learning and open-source 🔥. 
 I love to explore and learn about any new things ❤️.
 
 
@@ -33,13 +30,12 @@ No Activity tracked this Week
 ### ⚡ Technologies
 Talk to me about
 - Front-end development using **HTML, Javascript, CSS, React**
-- Backend development using **Node.js, Python**
+- Backend development using **Java, Spring, Node.js, Python**
 - Architecture design for Relational Database Management Systems like **MySQL, Postgres** as well as for NoSQL database systems like **Cassandra, MongoDB and Neo4j**
 - Robust full-stack system design implementation
 - Build kinds of models with **Machine Learning** and **Deep Learning** algorithms
-- Manage and maintain cloud server using **Ali Cloud**
+- Manage and maintain cloud server using **AWS Cloud**
 - Solving Data structure and algorithm questions.
-- Quantitative trading strategy with **Python**
 
 ### 👨‍💻 Open source work stats
 
@@ -51,7 +47,6 @@ Talk to me about
 - 💬 Ask me about anything.
 - 📧 <a href="harry.yifu.gao@gmail.com">Email</a>
 - 💼 <a href= "https://www.linkedin.com/in/yifugao/">LinkedIn</a>
-- 📖 <a href = "https://blog.csdn.net/sinat_23133783">CSDN</a>
 
 ***Welcome to do ⭐ my repository if you find it interesting, at least your star could make me stay on track and be motivated.***
  
